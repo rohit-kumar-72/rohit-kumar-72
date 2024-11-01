@@ -1,0 +1,99 @@
+{
+    "socialmedia": [
+        {
+            "icon": "/socialicons/linkedin.svg",
+            "url": "http://linkedin.com/in/rohitkumar72/"
+        },
+        {
+            "icon": "/socialicons/github.svg",
+            "url": "http://Github.com/rohit-kumar-72/"
+        },
+        {
+            "icon": "/socialicons/leetcode.svg",
+            "url": "https://leetcode.com/rohit-kumar-72/"
+        },
+        {
+            "icon": "/socialicons/whatsapp.svg",
+            "url": "https://wa.me/917428519022"
+        }
+    ],
+    "gmail": "rohitkumar519022@gmail.com",
+    "resumeLink": "https://drive.google.com/file/d/1s33JCk-ulf5x-7I6RgkDKCzpnjYV09rt/view?usp=sharing",
+    "projects": [
+        {
+            "name": "Studynotion",
+            "image": "/projects/studynotion.png",
+            "content": "Developed features such as dedicated dashboards for students and instructors, cart management, and OTP validation via email. \nIntegrated Razorpay for seamless payment transactions, Cloudinary to manage media assets ensuring efficient storage and retrieval, Gmail for mail services to mitigate fraudulent user registrations.",
+            "techStack": [
+                "React Js",
+                "Express Js",
+                "Node Js",
+                "MongoDB",
+                "Redux"
+            ],
+            "credentials": {
+                "username": "adityaraj@gmail.com",
+                "password": "1234"
+            },
+            "link": "https://studynotion-azure.vercel.app/",
+            "github": ""
+        },
+        {
+            "name": "PlaynWins",
+            "image": "/projects/playnwins.png",
+            "content": "Designed an intuitive interface to facilitate seamless navigation and enhance user experience. Developed an admin dashboard for efficient management and quick access. Implemented session-based login using JWT and stored hashed passwords to ensure data protection and security. ",
+            "techStack": [
+                "React Js",
+                "Node Js",
+                "Express Js",
+                "Redux",
+                "MongoDB"
+            ],
+            "credentials": {
+                "username": "”7777777777”",
+                "password": "123"
+            },
+            "link": "https://playnwins.vercel.app/",
+            "github": ""
+        }
+    ],
+    "experiences": [
+        {
+            "image": "/experience/atg.svg",
+            "companyName": "Across The Globe",
+            "role": "ReactJs Intern",
+            "aboutCompany": "",
+            "work": [
+                "Resolved 70+ bugs across multiple projects, improving UI stability and performance by 20%",
+                "Managed API handling and state management using Redux, ensuring accurate and timely data retrieval in React applications.",
+                "Implemented UI changes for the Ukiyo project, enhancing user experience and reducing page load time by 15%."
+            ],
+            "duration": "June 2024 – August 2024"
+        }
+    ],
+    "slugs": [
+        "typescript",
+        "javascript",
+        "react",
+        "html5",
+        "css3",
+        "nodedotjs",
+        "express",
+        "nextdotjs",
+        "postgresql",
+        "vercel",
+        "git",
+        "github",
+        "gitlab",
+        "visualstudiocode",
+        "python",
+        "cplusplus",
+        "supabase",
+        "langchain",
+        "django",
+        "mongodb",
+        "mysql",
+        "render",
+        "tailwindcss"
+    ]
+}

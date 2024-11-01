@@ -1,0 +1,28 @@
+* {
+    scrollbar-width: auto;
+    scrollbar-color: #afb2bf;
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+    width: 3px;
+}
+
+*::-webkit-scrollbar-track {
+    background: #ccc;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-image: linear-gradient(to bottom, #ff6b08, #cf23cf);
+    border-radius: 10px;
+    opacity: 0.8;
+    cursor: ns-resize;
+    /* Up and down arrow */
+    transition: all 1s ease-in-out;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+    transition: all 1s ease-in-out;
+    background-image: linear-gradient(to bottom, #06b6d4, #0ea5e9, #3b82f6);
+    opacity: 1;
+}
