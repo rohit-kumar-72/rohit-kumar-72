@@ -29,7 +29,7 @@ function App() {
     });
     tl.from(mainRef.current, {
       opacity: 0,
-      duration: 1,
+      duration: 0.5,
     });
   });
 

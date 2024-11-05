@@ -34,7 +34,7 @@ function HeroSection() {
                     text="Passionate for Software Engineering"
                 />
                 <p className='para -mt-4 font-body leading-5 font-medium text-sm '>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum explicabo dolorum cupiditate, nisi corporis eos facere tempora dolores sequi alias incidunt quasi fugiat eum provident molestias maiores deleniti itaque culpa atque.
+                    I am a third-year bachelor's degree student and an enthusiastic software developer passionate about crafting innovative solutions and exceptional user experiences. My previous work at a company allowed me to gain valuable insights and hands-on experience. I am seeking exciting opportunities that will allow me to further develop my abilities and contribute to impactful projects.
                 </p>
                 <div className='flex md:gap-10 items-center justify-between gap-4'>
                     <div onClick={handleEmailClick}>
