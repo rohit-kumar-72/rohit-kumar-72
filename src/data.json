@@ -18,7 +18,7 @@
         }
     ],
     "gmail": "rohitkumar519022@gmail.com",
-    "resumeLink": "https://drive.google.com/file/d/1s33JCk-ulf5x-7I6RgkDKCzpnjYV09rt/view?usp=sharing",
+    "resumeLink": "https://drive.google.com/file/d/1X8Gjfheu9adbuAP4rCW8oijiTK_EH4UK/view?usp=sharing",
     "projects": [
         {
             "name": "Studynotion",
@@ -59,16 +59,28 @@
     ],
     "experiences": [
         {
-            "image": "/experience/atg.svg",
-            "companyName": "Across The Globe",
-            "role": "ReactJs Intern",
+            "image": "/experience/whatbytes.jpeg",
+            "companyName": "WhatBytes",
+            "role": "FullStack Developer",
             "aboutCompany": "",
             "work": [
-                "Resolved 70+ bugs across multiple projects, improving UI stability and performance by 20%",
-                "Managed API handling and state management using Redux, ensuring accurate and timely data retrieval in React applications.",
-                "Implemented UI changes for the Ukiyo project, enhancing user experience and reducing page load time by 15%."
+                "Designed and implemented scalable RESTful APIs using Django REST Framework, enabling seamless integration with Next.js frontend for dynamic and responsive web applications.",
+                "Developed SEO-optimized web applications using Next.js, leveraging SSR and SSG to improve page load speed by 30% and enhance user experience.",
+                "Built and maintained backend systems using Django, ensuring robust database management, security, and efficient API performance for full-stack applications."
             ],
-            "duration": "June 2024 – August 2024"
+            "duration": "January 2025 – February 2025"
+        },
+        {
+            "image": "/experience/atg.svg",
+            "companyName": "Across The Globe",
+            "role": "React Developer",
+            "aboutCompany": "",
+            "work": [
+                "Built 10+ responsive UIs using React.js and Redux, boosting user engagement by 25%.",
+                "Integrated RESTful APIs, payment gateways, and AWS S3 for media storage, cutting data load times by 15%.",
+                "Delivered pixel-perfect UIs using Tailwind CSS with reusable components, improving development efficiency."
+            ],
+            "duration": "August 2024 – October 2024"
         }
     ],
     "slugs": [
