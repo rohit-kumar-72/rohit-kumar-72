@@ -61,12 +61,12 @@
         {
             "image": "/experience/whatbytes.jpeg",
             "companyName": "WhatBytes",
-            "role": "FullStack Developer",
+            "role": "Frontend Developer",
             "aboutCompany": "",
             "work": [
-                "Designed and implemented scalable RESTful APIs using Django REST Framework, enabling seamless integration with Next.js frontend for dynamic and responsive web applications.",
                 "Developed SEO-optimized web applications using Next.js, leveraging SSR and SSG to improve page load speed by 30% and enhance user experience.",
-                "Built and maintained backend systems using Django, ensuring robust database management, security, and efficient API performance for full-stack applications."
+                "Built reusable React components, integrated RESTful APIs, and optimized performance, achieving a 90+ score on Google Lighthouse and enhancing user experience.",
+                "During my journey, got the chance to showcase my backend skills with Django by working on RESTful APIs."
             ],
             "duration": "January 2025 – February 2025"
         },
